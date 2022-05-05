@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/bc-healthcare-client/static/css/main.2c918916.css",
+    "main.js": "/bc-healthcare-client/static/js/main.41c48817.js",
+    "index.html": "/bc-healthcare-client/index.html",
+    "main.2c918916.css.map": "/bc-healthcare-client/static/css/main.2c918916.css.map",
+    "main.41c48817.js.map": "/bc-healthcare-client/static/js/main.41c48817.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2c918916.css",
+    "static/js/main.41c48817.js"
+  ]
+}
