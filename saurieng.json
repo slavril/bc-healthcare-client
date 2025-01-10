@@ -1,0 +1,219 @@
+{
+    "code": "95879bbee6d08f1f144fe90cb13b05ef8abd3003af784149e4f8b37159b355e5",
+    "name": "Durian Ri 6",
+    "status": 0,
+    "actioncode": 0,
+    "point": 10,
+    "image_ads": "https://product.hstatic.net/200000325223/product/sau_rieng_new-01_63392fbb5c3d449e913faebc332ae80f.png",
+    "image_unit": "https://product.hstatic.net/200000325223/product/sau_rieng_new-01_63392fbb5c3d449e913faebc332ae80f.png",
+    "introduction": "Durian Ri 6 Box",
+    "exp": "2025-01-01",
+    "mfg": "2019-01-01",
+    "lot": "0616LJ21",
+    "company": {
+        "id": "7c045aaedda144ddb990c09fa5cd3c02",
+        "name": "Quang Nam Supermarket",
+        "logo": "showroomsamngoclinh.png",
+        "address": "93 Tô Hiến Thành Street, Ward 13, District 10, HCM City",
+        "tel": "(028) 38 652 159",
+        "email": "quochung23082@gmail.com"
+    },
+    "traceability_locations": [
+        {
+            "companyid": "7c045aaedda144ddb990c09fa5cd3c02",
+            "name": "Quang Nam Supermarket",
+            "logo": "showroomsamngoclinh.png",
+            "description": "Situated in the heart of Quang Nam, Quang Nam Supermarket is your one-stop destination for a diverse range of high-quality products and exceptional customer service. Established in 2010, our supermarket has become a trusted name for local families and businesses, offering a convenient shopping experience with a wide selection of items to meet every need.",
+            "location": [
+                10.781622,
+                106.67051
+            ],
+            "location_description": "93 Tô Hiến Thành, Phường 13, Quận 10, TP. HCM",
+            "attributes": [
+                {
+                    "time": "2020-08-31",
+                    "activity": "Received VietGAP Certification",
+                    "content": [
+                        "Số Chứng nhận kiểm tra chất lượng : [object Object]"
+                    ],
+                    "transactionId": "95879bbee6d08f1f144fe90cb13b05ef8abd3003af784149e4f8b37159b355e5"
+                },
+                {
+                    "time": "2025-01-09",
+                    "activity": "Sold Durian Ri 6 to Customer",
+                    "content": [
+                        "Tên sản phẩm : Durian Ri 6 Box",
+                        "Tuổi của Sầu riêng : 2 năm",
+                        "SKU : SNL-DDS-20"
+                    ],
+                    "transactionId": "4b706f5a413d4306d51303ef8bc93e4a327bf177fc0201199d08341dd6870b8d"
+                }
+            ]
+        },
+        {
+            "companyid": "af5eab94d78340a988c5c78dcf9b9fe2",
+            "name": "Quang Nam Transport Joint Stock Company",
+            "logo": "tttpchucnang.png",
+            "description": "Located in the heart of Quảng Nam, Quảng Nam Logistics Co., Ltd. is a trusted name in the transportation and logistics industry. With over a decade of experience, our company specializes in providing efficient, reliable, and cost-effective transport solutions for businesses and individuals throughout Vietnam.",
+            "location": [
+                10.78021,
+                106.6696
+            ],
+            "location_description": "200 Tô Hiến Thành Street, Ward 15, District 10, Ho Chi Minh City",
+            "attributes": [
+                {
+                    "time": "2025-01-08",
+                    "activity": "Transport Durian to Quang Nam Supermarket",
+                    "content": [
+                        "Vận chuyển và bảo quản : Tốt",
+                        "Phương tiện vận chuyển : Xe lạnh",
+                        "Nhiệt độ lưu trữ : 22 độ C"
+                    ],
+                    "transactionId": "7f2e9a5326949386f9681886ecbc95b47d8be1aec32e129c33b0ca89b77f1e29"
+                }
+            ]
+        },
+        {
+            "companyid": "06b6ced1fc354591881d317539cd7bc4",
+            "name": "Quang Nam Agro Aggregator",
+            "logo": "quasapharco.png",
+            "description": "At Quang Nam Agro Aggregator, we are dedicated to connecting local farmers with markets nationwide and beyond. Based in the fertile lands of Quang Nam, our company specializes in sourcing and trading high-quality agricultural produce and fresh fruits. We aim to support farmers by ensuring fair pricing and providing consistent demand for their products, while delivering premium goods to customers and businesses.",
+            "location": [
+                15.56359,
+                108.48754
+            ],
+            "location_description": " 222 Huỳnh Thúc Kháng Street, Ward An Xuân, Tam Kỳ City, Quảng Nam Province",
+            "attributes": [
+                {
+                    "time": "2025-01-08",
+                    "activity": "Transfer to using Quang Nam Transport Join Stock Company",
+                    "content": [
+                        "Global GAP : Global GAP certified for sustainable and responsible agricultural practices."
+                    ],
+                    "transactionId": "5371ef7f7db295b66b6deed9a81151dc036e0fcb7c1e60aa617a3eab8d51bcf5"
+                },
+                {
+                    "time": "2025-01-08",
+                    "activity": "ISO014001 Certificate",
+                    "content": [
+                        "ISO014001 : Certified ISO 14001:2022 by VietISO"
+                    ],
+                    "transactionId": "297ea7306e986cb586c19fd1a23d6cca4b915dfea6b0ba3d1e8f13f329572652"
+                },
+                {
+                    "time": "2025-01-08",
+                    "activity": "Ri 6 Durian\nOne of Vietnam's most popular durian varieties, Ri 6 is known for its creamy, buttery texture and rich, sweet flavor. The bright yellow flesh and small seeds make it a favorite among durian enthusiasts. Ri 6 durians are carefully handpicked to ensure they are perfectly ripe, offering the ultimate indulgence for true durian lovers.\n\nFlavor Profile: Sweet, mildly nutty, and creamy.\nBest Uses: Enjoyed fresh or used in desserts like durian cakes and ice cream.",
+                    "content": [
+                        "Mô tả : One of Vietnam's most popular durian varieties, Ri 6 is known for its creamy, buttery texture and rich, sweet flavor. The bright yellow flesh and small seeds make it a favorite among durian enthusiasts. Ri 6 durians are carefully handpicked to ensure they are perfectly ripe, offering the ultimate indulgence for true durian lovers.",
+                        "Dòng mặt hàng : Ri 6 Durian Farm 001",
+                        "Số lượng : 500",
+                        "Đơn vị : 1"
+                    ],
+                    "transactionId": "297ea7306e986cb586c19fd1a23d6cca4b915dfea6b0ba3d1e8f13f329572652"
+                }
+            ]
+        },
+        {
+            "companyid": "3345a9ee4466460ebf4b16ba4426ae84",
+            "name": "Tra My Durian Cooperative",
+            "logo": "namtramy.png",
+            "description": "Our farm practices sustainable farming methods, combining traditional techniques with modern innovations to ensure the highest quality produce while protecting the environment. Each durian tree is carefully nurtured over the years, and only hand-picked durians at peak ripeness make it to your table.\nThe farm is operated by Green Harvest Co., Ltd., a leading agricultural company based in Quảng Nam, committed to delivering fresh, organic fruits to both domestic and international markets. Established in 2015, Green Harvest Co. aims to promote the unique flavors of Vietnam’s highlands while supporting local farmers and fostering sustainable agricultural development.",
+            "location": [
+                15.05881,
+                108.090759
+            ],
+            "location_description": "Nam Trà My town, Quảng Nam Province",
+            "attributes": [
+                {
+                    "time": "2025-01-02",
+                    "activity": "Sold to Quang Nam Agro Aggregator",
+                    "content": [
+                        "Vận chuyển và bảo quản : Tốt",
+                        "Phương tiện vận chuyển : Xe lạnh",
+                        "Nhiệt độ lưu trữ : 22 độ C"
+                    ],
+                    "transactionId": "738bb064f620134e3fa2c45004acda93cc3cdb3b984499bff307ed3cc4f61ed9"
+                },
+                {
+                    "time": "2024-12-14",
+                    "activity": "Harvest Durians",
+                    "content": [
+                        "Tuổi của cây : 7 năm",
+                        "Ngày thu hoạch : 2019-08-28"
+                    ],
+                    "transactionId": "a1527bf53a2fcbdb8b2083ea0b10f99523578f407ccb5786ff0625099decdd21"
+                }
+            ]
+        }
+    ],
+    "ingredient_descriptions": [
+        {
+            "title": "Ingredients",
+            "description": "Durian, often referred to as the King of Fruits, is a unique tropical fruit with a rich and creamy texture, making it a versatile ingredient in various culinary creations. Its distinct flavor profile, a combination of sweet and savory notes with a hint of nuttiness, has made it a prized ingredient in both traditional and modern recipes across Southeast Asia and beyond.",
+            "images": [
+                "samngammatong_pro.png"
+            ],
+            "attributes": [
+                {
+                    "name": "Sầu riêng",
+                    "value": "3750mg"
+                },
+                {
+                    "name": "Đường kính",
+                    "value": "30g"
+                }
+            ],
+            "notes": [
+                ""
+            ]
+        }
+    ],
+    "promotion_descriptions": [
+        {
+            "title": "Khuyến mãi hấp dẫn trong tháng 12-2019",
+            "description": "",
+            "images": [
+                "dungdichsamngocling_gift.png"
+            ],
+            "attributes": [
+                {
+                    "name": "Thời gian khuyến mãi",
+                    "value": "01/12/2018 – 31/12/2018"
+                },
+                {
+                    "name": "Phạm vi khuyến mãi",
+                    "value": "Áp dụng tại các cửa hàng bán lẻ, siêu thị và website trên toàn quốc."
+                },
+                {
+                    "name": "Thông tin khuyến mãi",
+                    "value": "Mua 2 tặng 1"
+                }
+            ],
+            "notes": [
+                ""
+            ]
+        }
+    ],
+    "ads_descriptions": [
+        {
+            "title": "Nhãn hiệu hiện bán tại Việt Nam",
+            "description": "Là nhãn hiệu đạt chứng nhận tiêu chuẩn Việt nam, nhận được sự tin tưởng và tiêu dùng tại nhiều nước trên thế giới, với nhiều loại sản phẩm khác nhau.",
+            "images": [
+                "dungdichsamngocling_gift.png"
+            ],
+            "attributes": [
+                {
+                    "name": "Bình rượu Sầu riêng",
+                    "value": "binhruousam1l.png"
+                },
+                {
+                    "name": "Sầu riêng ngâm mật ong",
+                    "value": "samngammatong_unit.png"
+                }
+            ],
+            "notes": [
+                ""
+            ]
+        }
+    ]
+}
